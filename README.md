@@ -1,3 +1,8 @@
+# data
+
+사람 얼굴 이미지 (마스크 쓴 것, 안 쓴 것, 부적절하게 쓴 것)
+
+
 # training
 
 python train.py 
