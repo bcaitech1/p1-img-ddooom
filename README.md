@@ -1,9 +1,13 @@
-# data
+## Task
+
+사람 얼굴 이미지를 입력 받으면 사람의 마스크 착용 여부, 성별, 나이대를 분류
+
+## Data
 
 사람 얼굴 이미지 (마스크 쓴 것, 안 쓴 것, 부적절하게 쓴 것)
 
 
-# training
+## Training
 
 python train.py 
 __python train.py__ 
