@@ -1,3 +1,6 @@
+## Wrap-Up Report
+실험 과정 및 회고 : [Wrap-Up Report](https://github.com/ddooom/p1-img-ddooom/blob/main/WrapUpReport.pdf)
+
 ## Task
 
 사람 얼굴 이미지를 입력 받으면 사람의 마스크 착용 여부, 성별, 나이대를 분류
